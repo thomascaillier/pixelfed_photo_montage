@@ -1,0 +1,19 @@
+{
+  "name": "pixelfed_photo_montage",
+  "version": "1.0.0",
+  "description": "Photo montage frames from Pixelfed account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thomascaillier/pixelfed_photo_montage.git"
+  },
+  "author": "Thomas Caillier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomascaillier/pixelfed_photo_montage/issues"
+  },
+  "homepage": "https://github.com/thomascaillier/pixelfed_photo_montage#readme"
+}
